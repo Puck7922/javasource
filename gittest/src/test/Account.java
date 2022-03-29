@@ -21,5 +21,8 @@ public class Account {
 	public void print() {
 		System.out.println("print");
 	}
+	public void print2() {
+		System.out.println("print2");
+	}
 }
 
